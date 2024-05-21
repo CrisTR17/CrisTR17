@@ -1,4 +1,4 @@
--=Boas vindas ao meu perfil=-
+_Boas vindas ao meu perfil_
 
 Meu nome é Cristiano Ronaldo Oliveira Souza
 
@@ -6,6 +6,6 @@ Meu nome é Cristiano Ronaldo Oliveira Souza
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+*Você pode entrar em contato comigo 📫*
 
 - cristianoronaldooliveirasouza@gmail.com
